@@ -333,7 +333,7 @@ redirect_from:
 
 - ![SDR Tranning](https://img.shields.io/badge/SDR-Tranning-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)
  In Dec. 2023, I was invited to conduct a software-defined radio (SDR) training for the Department of Communication Engineering (804), Electronic Information College, NWPU, where I provided offline instruction on LabVIEW software usage, G(Graphical)-language programming, and USRP development with hands-on experiment demonstrations.
-- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the Electronic Information College to give a lecture on the topic of "English Learning Skills" at the 'We Talk' workshop, and was awarded the title of "Excellent Speaker" afterwards.
+- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the Electronic Information College to give a lecture on the topic of "English Learning Skills" at the "We Talk" workshop, and was awarded the title of "Excellent Speaker" afterwards.
 
 ## 💡 Academic Communications
 
