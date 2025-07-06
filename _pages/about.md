@@ -243,7 +243,7 @@ redirect_from:
     <div class="funding-source">- National Natural Science Foundation of China (No.62201462)</div>
     <div class="project-role">Student Leader</div>
   </div>
-  <div class="project-keywords">- Key words: Convert Communication; Orthogonal Time Frequency Space</div>
+  <div class="project-keywords">- Key words: Convec Optimization in Wirless Communication; Orthogonal Time Frequency Space modulation</div>
   <div class="project-work">- My work:</div>
 </div>
 
@@ -270,19 +270,6 @@ redirect_from:
     <div class="project-role">Project Participant</div>
   </div>
   <div class="project-keywords">- Key words: Cognitive Radio; Situation Awareness; AI-Driven Intelligent Decision-Making</div>
-  <div class="project-work">- My work:</div>
-</div>
-
-<div class="project-experience-container">
-  <div class="project-header">
-    <div class="project-title">Multi-Node Collaborative Secure Transmission Technology</div>
-    <div class="project-date">Oct. 2022 – Oct. 2024</div>
-  </div>
-  <div class="project-details">
-    <div class="funding-source">- National Innovation Project (No.XXXXXXXXXXXXX)</div>
-    <div class="project-role">Student Leader</div>
-  </div>
-  <div class="project-keywords">- Key words: Distributed Secure Beamforming; Artificial Noise Design</div>
   <div class="project-work">- My work:</div>
 </div>
 
