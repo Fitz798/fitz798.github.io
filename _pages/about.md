@@ -72,7 +72,7 @@ redirect_from:
 (<a href="/files/certificates/Certificates_of_Scholarship.pdf">Click here to view my certificates of scholarship 📜 </a>)
 
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 My manuscript, “ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks”, has been accepted by IEEE **IECICT 2025**.
+- *2025.06*: &nbsp;🎉🎉 My manuscript, “ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks”, has been accepted by **IEEE ICEICT 2025**.
 - *2025.05*: &nbsp;🎉🎉 I won the **Grand Prize** in "Challenge Cup" Shaanxi Province College Student Extracurricular Academic Science and Technology Works Competition.
 - *2025.04*: &nbsp;🎉🎉 I led the team to win the title of **Top 10 "Flag Youth League Branch"** with the **first place** in the Youth League Commendation Series of NWPU.
 - *2024.12*: &nbsp;🎉🎉 I led the team to win the National Third Prize in the National Graduate Contest on Smart-city Technology and Creative Design Competition.
