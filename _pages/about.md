@@ -243,7 +243,7 @@ redirect_from:
     <div class="funding-source">- National Natural Science Foundation of China (No.62201462)</div>
     <div class="project-role">Student Leader</div>
   </div>
-  <div class="project-keywords">- Key words: Convec Optimization in Wirless Communication; Orthogonal Time Frequency Space modulation</div>
+  <div class="project-keywords">- Key words: Convex Optimization in Wirless Communication; Orthogonal Time Frequency Space modulation</div>
   <div class="project-work">- My work:</div>
 </div>
 
