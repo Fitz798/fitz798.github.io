@@ -35,7 +35,7 @@ redirect_from:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **GPA: 93.12/100, &nbsp; RANK: 1/62***
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my Bachelor's thesis written in English 🔍 </a>)
+&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my undergraduate dissertation written in English 🔍 </a>)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Bachelor.pdf">Click here to view my Bachelor's transcripts 📋 </a>)
 <br>
