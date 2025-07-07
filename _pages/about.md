@@ -262,7 +262,7 @@ redirect_from:
 <div class="project-experience-container">
   <div class="project-header">
     <div class="project-title">Interference Signal Analysis and Prediction Simulation Verification Technology</div>
-    <div class="project-date">Sep. 2024 – Present</div>
+    <div class="project-date">Sep. 2024 – Jul. 2025</div>
   </div>
   <div class="project-details">
     <div class="funding-source">- XXXXXXXXXXXXXXXXXXXXXX</div>
