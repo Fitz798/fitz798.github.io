@@ -61,7 +61,7 @@ redirect_from:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Advisor: Prof. Qian Xu*
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**National Inspirational Scholarship (Top 3%)**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**National Encouragement Scholarship (Top 3%)**
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Academic Second Class Scholarship (Top 10%)
 <br>
@@ -81,7 +81,7 @@ redirect_from:
 - *2024.03*: &nbsp;🎉🎉 I led the team to win the First Prize in "Aviation, Aerospace and Navigation Cup" Innovation Competition.
 - *2023.07*: &nbsp;🎉🎉 I won the Northwest China Regional First Prize in the "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition.
 - *2022.10*: &nbsp;🎉🎉 I received a recommendation offer (without entrance examination) to pursue an MPhil's degree in engineering, at the School of Electronics and Information, NPU.
-- *2021.10*: &nbsp;🎉🎉 I was awarded the **National Inspirational Scholarship (Top 3%)**.
+- *2021.10*: &nbsp;🎉🎉 I was awarded the **National Encouragement Scholarship (Top 3%)**.
 
 # 📝 Paperwork and Patents
 - **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (Accepted)
