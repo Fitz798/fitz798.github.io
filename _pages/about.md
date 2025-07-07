@@ -31,7 +31,7 @@ redirect_from:
 (<a href="/files/CVs/ZianChen_CV_Eng.pdf">Click here to view my CV</a>)
 
 # 📖 Educations
-- *2023.09 - Present*, Northwestern Polytechnical University, MPhil Candidate in Engineering
+- *2023.09 - 2023.3(Present)*, Northwestern Polytechnical University, MPhil Candidate in Engineering
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **GPA: 93/100, &nbsp; RANK: 1/62***
 <br>
