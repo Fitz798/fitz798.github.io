@@ -310,8 +310,8 @@ redirect_from:
 ## 🧑‍🎨 Student Work
 
 - Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in the School of Electronics and Information, NPU, responsible for the academic and daily affairs of the class.
-- In academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the School of Electronics and Information, NPU.
-- ![UGDO AA](https://img.shields.io/badge/UGDO-AA-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) Since Mar. 2025, I have been working as an assistant of the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
+- In the academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the School of Electronics and Information, NPU.
+- ![UGDO AA](https://img.shields.io/badge/UGDO-AA-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) Since Mar. 2025, I have been working as an affairs assistant of the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
 - <a href="/files/certificates/Certificate_of_HCIA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
 - ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NPU.
 
@@ -319,7 +319,7 @@ redirect_from:
 
 - ![SDR Tranning](https://img.shields.io/badge/SDR-Tranning-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)
  In Dec. 2023, I was invited to conduct a software-defined radio (SDR) training for the Department of Communication Engineering (804), School of Electronics and Information, NPU, where I provided offline instruction on LabVIEW software usage, G(Graphical)-language programming, and USRP development with hands-on experiment demonstrations.
-- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the School of Electronics and Information to give a lecture on the topic of "English Learning Skills" at the "We Talk" workshop, and was awarded the title of "Excellent Speaker" afterwards.
+- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the School of Electronics and Information to give a lecture on the topic of "English Learning Skills" at the "We Talk" workshop, and was awarded the title of "Excellent Speaker" afterward.
 
 ## 💡 Academic Communications
 
