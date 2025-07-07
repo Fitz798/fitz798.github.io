@@ -33,7 +33,7 @@ redirect_from:
 # 📖 Educations
 - *2023.09 - Present*, Northwestern Polytechnical University, MPhil Candidate in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **GPA: 4.7/5.0, &nbsp; RANK: 1/62***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **GPA: 93/100, &nbsp; RANK: 1/62***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my undergraduate dissertation written in English 🔍 </a>)
 <br>
@@ -55,7 +55,7 @@ redirect_from:
 
 - *2019.09 - 2023.07*, Northwestern Polytechnical University, Bachelor in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **GPA: 4.5/5.0, &nbsp; RANK: 2/7***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **GPA: 3.7/4.1, &nbsp; RANK: 2/7***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Master.pdf">Click here to view my Master's transcripts 📋 </a>)
 <br>
