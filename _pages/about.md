@@ -99,7 +99,7 @@ redirect_from:
 ## ⭐ Individual Honors
 
 - *2024.10*, Outstanding Graduate Student
-- *2023.05*, Excellent speaker in "We Talk" workshop
+- *2023.05*, Excellent Speaker in the "We Talk" Workshop
 - *2021.10*, Outstanding Undergraduate Student
 - *2021.10*, Self-striving and Persevering Outstanding Individual
 - *2021.10*, Diligent and Erudite Outstanding Individual
