@@ -312,7 +312,7 @@ redirect_from:
 - Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in the School of Electronics and Information, NPU, responsible for the academic and daily affairs of the class.
 - In the academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the School of Electronics and Information, NPU.
 - ![AA](https://img.shields.io/badge/AA-%2303228d) Since Mar. 2025, I have been working as an affairs assistant at the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
-- <a href="/files/certificates/Certificate_of_HCIA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
+- <a href="/files/certificates/Certificate_of_TA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
 - ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NPU.
 
 ## 🎙 Invited Talks
