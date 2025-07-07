@@ -20,9 +20,9 @@ redirect_from:
 # 👤 Biographies
 &nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (English-taught Program, ETP)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the Electronic Information College, NWPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering (ETP)**.
+&nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering (ETP)**.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered machine learning (ML), integrated sensing and communication (ISAC), etc. For his doctorate, he aims to explore interdisciplinary fields such as artificial intelligence (AI), AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
+&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered machine learning (ML), integrated sensing and communication (ISAC), and vehicular networks, etc. For his doctorate, he aims to explore interdisciplinary fields such as artificial intelligence (AI), AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
 <!-- 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; He has published XXX. ([Google Scholar](https://scholar.google.com/citations?user=aa8uh8IAAAAJ))
@@ -311,10 +311,10 @@ redirect_from:
 ## 🧑‍🎨 Student Work
 
 - Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in the School of Electronics and Information, NPU, responsible for the academic and daily affairs of the class.
-- In academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the Electronic Information College, NPU.
+- In academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the School of Electronics and Information, NPU.
 - ![UGDO AA](https://img.shields.io/badge/UGDO-AA-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) Since Mar. 2025, I have been working as an assistant of the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
 - <a href="/files/certificates/Certificate_of_HCIA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
-- ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NWPU.
+- ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NPU.
 
 ## 🎙 Invited Talks
 
@@ -324,10 +324,10 @@ redirect_from:
 
 ## 💡 Academic Communications
 
-- [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/)In Jul. 2025, I attended the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and delivered an oral presentation.
-- [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In Jun. 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
-- [![GAAC-NWPU 2024](https://img.shields.io/badge/GAAC--NWPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In Mar. 2024, I attended the 22nd Graduate Academic Annual Conference of NWPU in Xi'an, China.
-- [![AS-ISAC 2023](https://img.shields.io/badge/AS--ISAC-2023-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.imt2030.org.cn/html//default/zhongwen/xinwendongtai/1724976473045004290.html?index=4) In Nov. 2023, I attended the 3rd Academic Symposium on 6G Integrated Sensing and Communication in Xi'an, China.
+- [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/)In Jul. 2025, I will attend the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and deliver an oral presentation.
+- [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In June 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
+- [![GAAC-NWPU 2024](https://img.shields.io/badge/GAAC--NWPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In March 2024, I attended the 22nd Graduate Academic Annual Conference of NWPU in Xi'an, China.
+- [![AS-ISAC 2023](https://img.shields.io/badge/AS--ISAC-2023-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.imt2030.org.cn/html//default/zhongwen/xinwendongtai/1724976473045004290.html?index=4) In November 2023, I attended the 3rd Academic Symposium on 6G Integrated Sensing and Communication in Xi'an, China.
 
 ## 💬 Public Communications
 
@@ -336,9 +336,9 @@ redirect_from:
 
 ## 📚 Other Experiences
 
-- In Apr. 2025, as the team leader of the Electronic Information College, I attended the university's Youth League Commendation Meeting. Our youth league branch was invited to give a speech on behalf of all "Flag Youth League Branches", and then was awarded on stage by Hao Zhan, Vice President of NPU. ([Click here to view details](https://mp.weixin.qq.com/s/oy_QnBDU1Gd4Dfbh6jaq3Q))
-- In Dec. 2024, as the president of the model class, I was invited to attend the Annual Commendation Conference of NPU, and was awarded on stage by Weihong Zhang, Vice President of NWPU and Academician of the Chinese Academy of Sciences. ([Click here to view details](https://mp.weixin.qq.com/s/Qgryk4qa7xstfoE44QWT5w))
-- In Nov. 2024, I was elected as a representative of postgraduate students to participate in the 19th Student Congress of NWPU，where I proposed an academic incentive plan to encourage academic creation and innovation. ([Click here to view details](https://www.nwpu.edu.cn/info/3058/94998.htm))
+- In April 2025, as the team leader of the Electronic Information College, I attended the university's Youth League Commendation Meeting. Our youth league branch was invited to give a speech on behalf of all "Flag Youth League Branches", and then was awarded on stage by Hao Zhan, Vice President of NPU. ([Click here to view details](https://mp.weixin.qq.com/s/oy_QnBDU1Gd4Dfbh6jaq3Q))
+- In Dec. 2024, as the president of the model class, I was invited to attend the Annual Commendation Conference of NPU, and was awarded on stage by Weihong Zhang, Vice President of NPU and Academician of the Chinese Academy of Sciences. ([Click here to view details](https://mp.weixin.qq.com/s/Qgryk4qa7xstfoE44QWT5w))
+- In November 2024, I was elected as a representative of postgraduate students to participate in the 19th Student Congress of NPU，where I proposed an academic incentive plan to encourage academic creation and innovation. ([Click here to view details](https://www.nwpu.edu.cn/info/3058/94998.htm))
 - In May 2024, I was elected as a representative of postgraduate students to participate in the 7th Student Congress of the School of Electronics and Information, NPU，where my proposal on the campus construction improvement plan was adopted at the congress. ([Click here to view details](https://mp.weixin.qq.com/s/E3tGQog0mPlQ3n8kDhNIkw))
 
 <span class='anchor' id='skills'></span>
