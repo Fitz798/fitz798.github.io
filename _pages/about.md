@@ -73,17 +73,17 @@ redirect_from:
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 My manuscript, “ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks”, has been accepted by **IEEE ICEICT 2025**.
-- *2025.05*: &nbsp;🎉🎉 I won the **Grand Prize** in "Challenge Cup" Shaanxi Province College Student Extracurricular Academic Science and Technology Works Competition.
-- *2025.04*: &nbsp;🎉🎉 I led the team to win the title of **Top 10 "Flag Youth League Branch"** with the **first place** in the Youth League Commendation Series of NWPU.
+- *2025.05*: &nbsp;🎉🎉 I won the **Grand Prize** in the "Challenge Cup" Shaanxi Province College Student Extracurricular Academic Science and Technology Works Competition.
+- *2025.04*: &nbsp;🎉🎉 I led the team to win the title of **Top 10 "Flag Youth League Branch"** with the **first place** in the Youth League Commendation Series of NPU.
 - *2024.12*: &nbsp;🎉🎉 I led the team to win the National Third Prize in the National Graduate Contest on Smart-city Technology and Creative Design Competition.
 - *2024.11*: &nbsp;🎉🎉 I was awarded the **National Scholarship for Graduate Students (Top 2%)**.
-- *2024.10*: &nbsp;🎉🎉 I led the graduate class to win the title of **Top 10 "Model Class" and 10,000 RMB funding** in the Annual Excellence Selection Series of NWPU.
+- *2024.10*: &nbsp;🎉🎉 I led the graduate class to win the title of **Top 10 "Model Class" and 10,000 RMB funding** in the Annual Excellence Selection Series of NPU.
 - *2024.03*: &nbsp;🎉🎉 I led the team to win the First Prize in "Aviation, Aerospace and Navigation Cup" Innovation Competition.
-- *2023.07*: &nbsp;🎉🎉 I won the Northwest China Regional First Prize in "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition.
-- *2022.10*: &nbsp;🎉🎉 I received a recommendation offer (without entrance examination) to pursue an MPhil's degree in engineering, at Electronic Information College, NWPU.
+- *2023.07*: &nbsp;🎉🎉 I won the Northwest China Regional First Prize in the "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition.
+- *2022.10*: &nbsp;🎉🎉 I received a recommendation offer (without entrance examination) to pursue an MPhil's degree in engineering, at the School of Electronics and Information, NPU.
 - *2021.10*: &nbsp;🎉🎉 I was awarded the **National Inspirational Scholarship (Top 3%)**.
 
-# 📝 Paper work and Pantents
+# 📝 Paperwork and Patents
 - **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (Accepted)
 - Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Sensing-Assisted OTFS Communications in Hostile Jamming Environment [J], IEEE Wireless Communications Letters. (Under review)
 - Qian Xu, **Zian Chen**, Xin Yang, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China. Patent No.CN119276674A (Published) <!--([Patent No.CN119276674A](https://patents.glgoo.top/patent/CN119276674A/en))-->
