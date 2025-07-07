@@ -18,11 +18,11 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (English-taught Program, ETP)** at the Electronic Information College, Northwestern Polytechnical University (NWPU). 
+&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (English-taught Program, ETP)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the Electronic Information College, NWPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering (ETP)**.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered machine learning (ML), integrated sensing and communication (ISAC), V2X and UAV communications, etc. For his doctorate, he aims to explore interdisciplinary fields such as artificial intelligence (AI), AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
+&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered machine learning (ML), integrated sensing and communication (ISAC), etc. For his doctorate, he aims to explore interdisciplinary fields such as artificial intelligence (AI), AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
 <!-- 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; He has published XXX. ([Google Scholar](https://scholar.google.com/citations?user=aa8uh8IAAAAJ))
@@ -110,11 +110,11 @@ redirect_from:
 
 ## 🏅 Collective Honors
 
-- *2024.10*, Annual Excellence Selection Series of NWPU, Top 10 "Model Class" and 10,000 RMB funding (Team leader)
-- *2025.04*, Youth League Commendation Series of NWPU, Top 10 "Flag Youth League Branch" (Team leader, First place overall)
-- *2025.03*, Youth League Commendation Series of Electronic Information College, "Advanced League Branch" (Team leader, First place overall)
-- *2024.10*, Annual Excellence Selection Series of Electronic Information College, "Advanced Graduate Class" (Team leader, First place overall)
-- *2021.11*, Annual Excellence Selection Series of NWPU, "Advanced Undergraduate Class" (Committee member)
+- *2024.10*, Annual Excellence Selection Series of NPU, Top 10 "Model Class" and 10,000 RMB funding (Team leader)
+- *2025.04*, Youth League Commendation Series of NPU, Top 10 "Flag Youth League Branch" (Team leader, First place overall)
+- *2025.03*, Youth League Commendation Series of the School of Electronics and Information, "Advanced League Branch" (Team leader, First place overall)
+- *2024.10*, Annual Excellence Selection Series of the School of Electronics and Information, "Advanced Graduate Class" (Team leader, First place overall)
+- *2021.11*, Annual Excellence Selection Series of NPU, "Advanced Undergraduate Class" (Committee member)
 
 (<a href="/files/certificates/Certificates_of_Collective_Honor.pdf">Click here to view my certificates of collective honor 📜 </a>)
 
@@ -310,17 +310,17 @@ redirect_from:
 
 ## 🧑‍🎨 Student Work
 
-- Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in Electronic Information College, NWPU, responsible for the academic and daily affairs of the class.
-- In academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the Electronic Information College, NWPU.
-- ![UGDO AA](https://img.shields.io/badge/UGDO-AA-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) Since Mar. 2025, I have been working as an assistant of the Undergraduate Dean's Office, Electronic Information College, NWPU, responsible for academic affairs.  
-- <a href="/files/certificates/Certificate_of_HCIA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NWPU.  
+- Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in the School of Electronics and Information, NPU, responsible for the academic and daily affairs of the class.
+- In academic year 2019, I was elected as the president of the undergraduate class 08061908, also the class publicity representative of the international class 08101991 in the Electronic Information College, NPU.
+- ![UGDO AA](https://img.shields.io/badge/UGDO-AA-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) Since Mar. 2025, I have been working as an assistant of the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
+- <a href="/files/certificates/Certificate_of_HCIA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
 - ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NWPU.
 
 ## 🎙 Invited Talks
 
 - ![SDR Tranning](https://img.shields.io/badge/SDR-Tranning-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)
- In Dec. 2023, I was invited to conduct a software-defined radio (SDR) training for the Department of Communication Engineering (804), Electronic Information College, NWPU, where I provided offline instruction on LabVIEW software usage, G(Graphical)-language programming, and USRP development with hands-on experiment demonstrations.
-- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the Electronic Information College to give a lecture on the topic of "English Learning Skills" at the "We Talk" workshop, and was awarded the title of "Excellent Speaker" afterwards.
+ In Dec. 2023, I was invited to conduct a software-defined radio (SDR) training for the Department of Communication Engineering (804), School of Electronics and Information, NPU, where I provided offline instruction on LabVIEW software usage, G(Graphical)-language programming, and USRP development with hands-on experiment demonstrations.
+- ![WeTalk Workshop](https://img.shields.io/badge/We%20Talk-Workshop-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d) In May 2023, as an outstanding student, I was invited by the School of Electronics and Information to give a lecture on the topic of "English Learning Skills" at the "We Talk" workshop, and was awarded the title of "Excellent Speaker" afterwards.
 
 ## 💡 Academic Communications
 
@@ -331,15 +331,15 @@ redirect_from:
 
 ## 💬 Public Communications
 
-- [![KNU-NWPU](https://img.shields.io/badge/KNU-NWPU-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://welcome.kaznu.kz/en/) In June 2024, as a representative of the Wireless Communication and Navigation Laboratory, I participated in welcoming the delegation from the Microsatellite-themed summer camp of Kazakh National University (KNU). During this international visit, I presented our laboratory's achievements in satellite-related technologies and discussed potential joint research projects fully in English, which enhanced my international communication capabilities. Due to my excellent performance, I was subsequently praised by the leader of the delegation and also the International Office, NWPU. ([Click here to view details](https://mp.weixin.qq.com/s/JKpBx84bvjCFpQZRqtwyuQ))
+- [![KNU-NPU](https://img.shields.io/badge/KNU-NWPU-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://welcome.kaznu.kz/en/) In June 2024, as a representative of the Wireless Communication and Navigation Laboratory, I participated in welcoming the delegation from the Microsatellite-themed summer camp of Kazakh National University (KNU). During this international visit, I presented our laboratory's achievements in satellite-related technologies and discussed potential joint research projects fully in English, which enhanced my international communication capabilities. Due to my excellent performance, I was subsequently praised by the leader of the delegation and also the International Office, NWPU. ([Click here to view details](https://mp.weixin.qq.com/s/JKpBx84bvjCFpQZRqtwyuQ))
 - [![Aisheng Tech.](https://img.shields.io/badge/Aisheng%20Tech.-%2303228d)](https://www.youuav.com/shop/2312/index/) In May 2024, as a member of the reception team, I participated in welcoming the delegation from Xi'an Aisheng Technology Co., Ltd., and we conducted in-depth exchanges on the drone industry's current trends, technological challenges, and future development prospects. ([Click here to view details](https://mp.weixin.qq.com/s/CC7iMuPeZpb7bSYg14rjLg))
 
 ## 📚 Other Experiences
 
-- In Apr. 2025, as the team leader of the Electronic Information College, I attended the university's Youth League Commendation Meeting. Our youth league branch was invited to give a speech on behalf of all "Flag Youth League Branches", and then was awarded on stage by Hao Zhan, Vice President of NWPU. ([Click here to view details](https://mp.weixin.qq.com/s/oy_QnBDU1Gd4Dfbh6jaq3Q))
-- In Dec. 2024, as the president of the model class, I was invited to attend the Annual Commendation Conference of NWPU, and was awarded on stage by Weihong Zhang, Vice President of NWPU and Academician of the Chinese Academy of Sciences. ([Click here to view details](https://mp.weixin.qq.com/s/Qgryk4qa7xstfoE44QWT5w))
+- In Apr. 2025, as the team leader of the Electronic Information College, I attended the university's Youth League Commendation Meeting. Our youth league branch was invited to give a speech on behalf of all "Flag Youth League Branches", and then was awarded on stage by Hao Zhan, Vice President of NPU. ([Click here to view details](https://mp.weixin.qq.com/s/oy_QnBDU1Gd4Dfbh6jaq3Q))
+- In Dec. 2024, as the president of the model class, I was invited to attend the Annual Commendation Conference of NPU, and was awarded on stage by Weihong Zhang, Vice President of NWPU and Academician of the Chinese Academy of Sciences. ([Click here to view details](https://mp.weixin.qq.com/s/Qgryk4qa7xstfoE44QWT5w))
 - In Nov. 2024, I was elected as a representative of postgraduate students to participate in the 19th Student Congress of NWPU，where I proposed an academic incentive plan to encourage academic creation and innovation. ([Click here to view details](https://www.nwpu.edu.cn/info/3058/94998.htm))
-- In May 2024, I was elected as a representative of postgraduate students to participate in the 7th Student Congress of Electronic Information College, NWPU，where my proposal on the campus construction improvement plan was adopted at the congress. ([Click here to view details](https://mp.weixin.qq.com/s/E3tGQog0mPlQ3n8kDhNIkw))
+- In May 2024, I was elected as a representative of postgraduate students to participate in the 7th Student Congress of the School of Electronics and Information, NPU，where my proposal on the campus construction improvement plan was adopted at the congress. ([Click here to view details](https://mp.weixin.qq.com/s/E3tGQog0mPlQ3n8kDhNIkw))
 
 <span class='anchor' id='skills'></span>
 
