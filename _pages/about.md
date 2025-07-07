@@ -83,7 +83,7 @@ redirect_from:
 - *2022.10*: &nbsp;🎉🎉 I received a recommendation offer (without entrance examination) to pursue an MPhil's degree in engineering, at Electronic Information College, NWPU.
 - *2021.10*: &nbsp;🎉🎉 I was awarded the **National Inspirational Scholarship (Top 3%)**.
 
-# 📝 Publications 
+# 📝 Paper work and Pantents
 - **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (Accepted)
 - Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Sensing-Assisted OTFS Communications in Hostile Jamming Environment [J], IEEE Wireless Communications Letters. (Under review)
 - Qian Xu, **Zian Chen**, Xin Yang, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China. Patent No.CN119276674A (Published) <!--([Patent No.CN119276674A](https://patents.glgoo.top/patent/CN119276674A/en))-->
