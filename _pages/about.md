@@ -325,7 +325,7 @@ redirect_from:
 
 - [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/)In Jul. 2025, I will attend the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and deliver an oral presentation.
 - [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In June 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
-- [![GAAC-NWPU 2024](https://img.shields.io/badge/GAAC--NWPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In March 2024, I attended the 22nd Graduate Academic Annual Conference of NPU in Xi'an, China.
+- [![GAAC-NPU 2024](https://img.shields.io/badge/GAAC--NPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In March 2024, I attended the 22nd Graduate Academic Annual Conference of NPU in Xi'an, China.
 - [![AS-ISAC 2023](https://img.shields.io/badge/AS--ISAC-2023-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.imt2030.org.cn/html//default/zhongwen/xinwendongtai/1724976473045004290.html?index=4) In November 2023, I attended the 3rd Academic Symposium on 6G Integrated Sensing and Communication in Xi'an, China.
 
 ## 💬 Public Communications
