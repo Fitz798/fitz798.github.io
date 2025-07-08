@@ -1,0 +1,531 @@
+\documentclass[10pt, letterpaper]{article}
+
+% Packages:
+\usepackage[
+    ignoreheadfoot, % set margins without considering header and footer
+    top=2 cm, % seperation between body and page edge from the top
+    bottom=2 cm, % seperation between body and page edge from the bottom
+    left=2 cm, % seperation between body and page edge from the left
+    right=2 cm, % seperation between body and page edge from the right
+    footskip=1.0 cm, % seperation between body and footer
+    % showframe % for debugging 
+]{geometry} % for adjusting page geometry
+\usepackage{titlesec} % for customizing section titles
+\usepackage{tabularx} % for making tables with fixed width columns
+\usepackage{array} % tabularx requires this
+\usepackage[dvipsnames]{xcolor} % for coloring text
+\definecolor{primaryColor}{RGB}{0, 0, 0} % define primary color
+\usepackage{enumitem} % for customizing lists
+\usepackage{fontawesome5} % for using icons
+\usepackage{amsmath} % for math
+\usepackage{romannum}
+\usepackage[
+    pdftitle={Zian Chen's CV},
+    pdfauthor={Zian Chen},
+    pdfcreator={LaTeX with RenderCV},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref} % for links, metadata and bookmarks
+\usepackage[pscoord]{eso-pic} % for floating text on the page
+\usepackage{calc} % for calculating lengths
+\usepackage{bookmark} % for bookmarks
+\usepackage{lastpage} % for getting the total number of pages
+\usepackage{changepage} % for one column entries (adjustwidth environment)
+\usepackage{paracol} % for two and three column entries
+\usepackage{ifthen} % for conditional statements
+\usepackage{needspace} % for avoiding page brake right after the section title
+\usepackage{iftex} % check if engine is pdflatex, xetex or luatex
+
+% Ensure that generate pdf is machine readable/ATS parsable:
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+   %  \usepackage{lmodern}
+    \usepackage{txfonts}
+\fi
+
+% \usepackage{charter}
+\usepackage{txfonts}
+
+
+% Some settings:
+\raggedright
+\AtBeginEnvironment{adjustwidth}{\partopsep0pt} % remove space before adjustwidth environment
+\pagestyle{empty} % no header or footer
+\setcounter{secnumdepth}{0} % no section numbering
+\setlength{\parindent}{0pt} % no indentation
+\setlength{\topskip}{0pt} % no top skip
+\setlength{\columnsep}{0.15cm} % set column seperation
+\pagenumbering{gobble} % no page numbering
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+
+\titlespacing{\section}{
+    % left space:
+    -1pt
+}{
+    % top space:
+    0.3 cm
+}{
+    % bottom space:
+    0.2 cm
+} % section title spacing
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$} % custom bullet points
+\newenvironment{highlights}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=0 cm + 10pt
+    ]
+}{
+    \end{itemize}
+} % new environment for highlights
+
+
+\newenvironment{highlightsforbulletentries}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=10pt
+    ]
+}{
+    \end{itemize}
+} % new environment for highlights for bullet entries
+
+\newenvironment{onecolentry}{
+    \begin{adjustwidth}{
+        0 cm + 0.00001 cm
+    }{
+        0 cm + 0.00001 cm
+    }
+}{
+    \end{adjustwidth}
+} % new environment for one column entries
+
+\newenvironment{twocolentry}[2][]{
+    \onecolentry
+    \def\secondColumn{#2}
+    \setcolumnwidth{\fill, 4.5 cm}
+    \begin{paracol}{2}
+}{
+    \switchcolumn \raggedleft \secondColumn
+    \end{paracol}
+    \endonecolentry
+} % new environment for two column entries
+
+\newenvironment{threecolentry}[3][]{
+    \onecolentry
+    \def\thirdColumn{#3}
+    \setcolumnwidth{, \fill, 4.5 cm}
+    \begin{paracol}{3}
+    {\raggedright #2} \switchcolumn
+}{
+    \switchcolumn \raggedleft \thirdColumn
+    \end{paracol}
+    \endonecolentry
+} % new environment for three column entries
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}
+}{
+    \par\kern\topsep
+} % new environment for the header
+
+\newcommand{\placelastupdatedtext}{% \placetextbox{<horizontal pos>}{<vertical pos>}{<stuff>}
+  \AddToShipoutPictureFG*{% Add <stuff> to current page foreground
+    \put(
+        \LenToUnit{\paperwidth-2 cm-0 cm+0.05cm},
+        \LenToUnit{\paperheight-1.0 cm}
+    ){\vtop{{\null}\makebox[0pt][c]{
+        \small\color{gray}\textit{Last updated in September 2024}\hspace{\widthof{Last updated in September 2024}}
+    }}}%
+  }%
+}%
+
+% save the original href command in a new command:
+\let\hrefWithoutArrow\href
+
+% new command for external links:
+
+
+\begin{document}
+    \newcommand{\AND}{\unskip
+        \cleaders\copy\ANDbox\hskip\wd\ANDbox
+        \ignorespaces
+    }
+    \newsavebox\ANDbox
+    \sbox\ANDbox{$|$}
+
+    \begin{header}
+        \fontsize{20 pt}{20 pt}\selectfont Zian Chen {\footnotesize{( Adam Fitz)}}
+
+        \vspace{5 pt}
+        
+         \normalsize
+         \mbox{\hrefWithoutArrow{tel:+86-18192323121}{Tel: +86 18192323121}}%
+         \kern 5.0 pt%
+         \AND%
+         \kern 5.0 pt%
+         \mbox{\hrefWithoutArrow{mailto:zianchen@mail.nwpu.edu.cn}{Email: zianchen@mail.nwpu.edu.cn}}%
+         \kern 5.0 pt%
+         \AND%
+         \kern 5.0 pt%
+         \mbox{\hrefWithoutArrow{https://fitz798.github.io}{Homepage: https://fitz798.github.io}}%
+       
+        
+    \end{header}
+
+    \vspace{5 pt - 0.3 cm}
+
+
+
+
+    \section{Education}
+
+        \begin{twocolentry}{
+            \textit{Sep. 2023 – Mar. 2026{\footnotesize{(Expected)}}}
+        }
+            \textbf{Northwestern Polytechnical University (NPU)} \end{twocolentry}
+
+        \vspace{0.10 cm}
+        \begin{onecolentry}
+            \begin{highlights}
+				\item \textit{M.Eng. Information and Communication Engineering}, \textit{Weighted Average (Compulsory Courses): \textbf{\textit{93.12/100}}}, \textit{RANK: \textbf{\textit{1/62}}}
+                \item \textbf{National Scholarship (Top 2\%)}\kern 5.0 pt \AND \kern 5.0 pt Academic First Class Scholarship (Twice)\kern 5.0 pt \AND \kern 5.0 pt First Class Scholarship
+                \item Wireless Communication and Navigation Laboratory (WiCAN LAB) Third Class Scholarship\kern 5.0 pt \AND \kern 5.0 pt Aerospace Electromagnetic Cognition and Utilization Institution (AECU INS) Second Class Scholarship
+                \item Outstanding Graduate Student
+                \item \textbf{Main Courses:} Matrix Theory(100), Mathematical Statistics(97), Bid Data Analysis and Mining(95), Information Theory and Coding(95), Modern Communication Theory(95), Computer Communication Networks(94)
+                \item \textbf{Research Interests:} Machine Learning(ML), Integrated Sensing and Communication(ISAC), Unmanned Aerial Vehicle(UAV), Reconfigurable Intelligent Surface(RIS),  Physical Layer Security(PLS)
+            \end{highlights}
+        \end{onecolentry}
+        
+        \vspace{0.20 cm}
+        \begin{twocolentry}{
+            \textit{Sep. 2019 – Jun. 2023}
+        }
+            \textbf{Northwestern Polytechnical University (NPU)}\end{twocolentry}
+
+        \vspace{0.10 cm}
+        \begin{onecolentry}
+            \begin{highlights}
+				\newcommand{\bfit}[1]{\textbf{\textit{#1}}}
+				\item \textit{B.Eng. Electronics and Information Engineering (ETP)} \hspace{0.7 cm} \textit{GPA: \bfit{3.7/4.1}} \hspace{0.7 cm} \textit{RANK: \bfit{2/7}}
+                \item \textbf{National Encouragement Scholarship (Top 3\%)}\kern 5.0 pt \AND \kern 5.0 pt  Academic Second Class Scholarship
+                \item Outstanding Undergraduate Student\kern 5.0 pt \AND \kern 5.0 pt Excellent Speaker, "We Talk" Workshop
+                \item Academic Excellence Outstanding Individual (Twice)\kern 5.0 pt \AND \kern 5.0 pt Self-striving \& Persevering Outstanding Individual\kern 5.0 pt \AND \kern 5.0 pt Diligent \& Erudite Outstanding Individual
+                \item \textbf{Main Courses:} Calculus \Romannum{1}/\Romannum{2}/\Romannum{3}(100), Computing Method(100),  Complex Function and Integral Transformation(100),  Microwave and Radio Circuits(97), Fundamentals of Analog Electronics(97), Linear algebra(95)
+            \end{highlights}
+        \end{onecolentry}
+
+    \section{Paperwork and Patents}
+
+        \begin{samepage}
+            [$\rm{C_1}$] \textbf{Zian Chen}, Qian Xu, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks [C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (\textbf{\textit{EI, Accepted}})
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+        \begin{samepage}
+            [$\rm{J_1}$] Qian Xu, \textbf{Zian Chen}, et al.  Sensing-Assisted OTFS Communications in Hostile Jamming Environment [J], IEEE Wireless Communications Letters. (\textbf{\textit{SCI Q1, Under review}})
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+                
+        \begin{samepage}
+            [$\rm{P_1}$] Qian Xu, \textbf{Zian Chen}, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China.  (\href{https://patents.glgoo.top/patent/CN119276674A/en}{Patent No.CN119276674A})
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+        \begin{samepage}
+            [$\rm{P_2}$] Xin Yang, \textbf{Zian Chen}, et al. An Anti-Jamming Implementation Approach for Integrated Sensing and Communication Waveform[P], Invention Patent in China. (Patent No.2025107315462)
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+       \begin{samepage}
+            [$\rm{P_3}$] Qian Xu, \textbf{Zian Chen}, et al. A Secure Transmission Scheme Based on Self-Interference Cancellation Mechanism[P], Invention Patent in China. (Patent No.202418000868.6)
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+        \begin{samepage}
+            [$\rm{P_4}$] Qian Xu, \textbf{Zian Chen}, et al. A Secure Multiple Access Method Based on Multi-Carrier Modulation[P], Invention Patent in China. (Patent No.202418000872.2)
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+        \begin{samepage}
+            [$\rm{P_5}$] Qian Xu, \textbf{Zian Chen}, et al. A Spectrum Efficient Secure Transmission Scheme Based on Orthogonal Time Frequency Space Modulation[P], Invention Patent in China. (Submitted)
+        \end{samepage}
+        
+        \vspace{0.20 cm}
+        
+        \begin{samepage}
+            [$\rm{P_6}$] Qian Xu, \textbf{Zian Chen}, et al. A Secure Transmission Approach Enpowered by Multi-Dimensional Sensing[P], Invention Patent in China. (Submitted)
+        \end{samepage}
+        \vspace{0.10 cm}
+        
+    \section{Awards {\footnotesize{(Selected)}}}
+
+        \begin{twocolentry}{
+            Oct. 2024
+        }
+        \begin{highlights}
+             \item China Graduate Contest on Smart-city Technology and Creative Design Competition
+        \end{highlights}
+        \item \hspace{0.75 cm} National Third Prize (\textbf{\textit{Team Leader}})
+        \end{twocolentry}
+        
+        \vspace{0.20 cm} 
+
+        \begin{twocolentry}{
+            May. 2025
+        }
+        \begin{highlights}
+             \item "Challenge Cup" National College Student Extracurricular Academic Science and Technology Works Competition
+        \end{highlights}
+        \item \hspace{0.75 cm} Shaanxi Province \textbf{Grand Prize}
+        \end{twocolentry}
+        
+        \vspace{0.20 cm} 
+        \begin{twocolentry}{
+            Jul. 2023
+        }
+        \begin{highlights}
+             \item "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition
+        \end{highlights}
+        \item \hspace{0.75 cm} Northwest China Regional \textbf{First Prize} (Commercial Track)
+        \end{twocolentry}
+        
+        \vspace{0.20 cm} 
+        \begin{twocolentry}{
+            Aug. 2024
+        }
+        \begin{highlights}
+             \item "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition
+        \end{highlights}
+        \item \hspace{0.75 cm} Northwest China Regional Second Prize (Technical Track)
+        \end{twocolentry}
+        
+        \vspace{0.20 cm} 
+        
+        \begin{twocolentry}{
+            Mar. 2024
+        }
+        \begin{highlights}
+             \item "Aviation, Aerospace \& Navigation Cup" Innovation Competition (A Class)
+        \end{highlights}
+        \item \hspace{0.75 cm} University-Level \textbf{First Prize} (\textbf{\textit{Team Leader}})
+        \end{twocolentry}
+
+        \vspace{0.20 cm} 
+        
+        \begin{twocolentry}{
+            Apr. 2025
+        }
+        \begin{highlights}
+             \item Youth League Commendation Series
+        \end{highlights}
+        \item \hspace{0.75 cm} University-Level \textbf{Top10} "Flag Youth League Branch" (\textbf{First Place, \textit{Team Leader}})
+        \end{twocolentry}
+
+        \vspace{0.20 cm} 
+        \begin{twocolentry}{
+            Oct. 2024
+        }
+        \begin{highlights}
+             \item "Youth in a Prosperous Era, Striving in Prime Time" Annual Excellence Selection Series
+        \end{highlights}
+        \item \hspace{0.75 cm} University-Level \textbf{Top10} "Model Class" (\textbf{¥10,000 Funding Awarded, \textit{Team Leader}})
+        \end{twocolentry}
+    
+    \section{Projects {\footnotesize{(Selected)}}}
+
+       
+        \begin{twocolentry}{
+            \textit{Apr. 2022 – Present}
+        }
+            \textbf{Multi-Dimensional Joint Secure Transmission for UAV-Ground Communications}\end{twocolentry}
+
+        \vspace{0.10 cm}
+
+        \begin{twocolentry}{
+                    (Student Leader) 
+        }
+            \begin{highlights}
+            \item National Natural Science Foundation {\footnotesize{(No.62201462)}}
+                \item Key words: \textit{Orthogonal Time Frequency Space; Beamforming and Precoding Design}
+            \end{highlights}
+            \end{twocolentry}
+
+        \vspace{0.1 cm}
+        
+
+        \begin{twocolentry}{
+            \textit{Mar. 2024 – Present}
+        }
+            \textbf{Resource Optimization Theory for UAV-Aided Multi-User Secure Communications}\end{twocolentry}
+
+        \vspace{0.10 cm}
+        
+        \begin{twocolentry}{
+                    (Student Leader) 
+        }
+            \begin{highlights}
+            \item Young Talent Fund of Association for Science and Technology {\footnotesize{(No.20240148)}}
+            \item Key words: \textit{Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization}
+        \end{highlights}
+        \end{twocolentry}
+
+        \vspace{0.1 cm}
+        
+        \begin{twocolentry}{
+        		\textit{Sep. 2024 – Jul. 2025}
+        	}
+        	\textbf{Interference Signal Analysis and Prediction Verification Technology {\footnotesize{(Completed)}}}\end{twocolentry}
+        
+        \vspace{0.10 cm}
+        
+        \begin{twocolentry}{
+        		(Core Participant) 
+        	}
+        	\begin{highlights}
+        		\item University-Institution Joint Innovation Fund
+        		\item Key words: \textit{Intelligent Situational Awareness; AI-Driven Decision Making}
+        	\end{highlights}
+        \end{twocolentry}
+        
+        \vspace{0.1 cm}
+
+
+        \begin{twocolentry}{
+            \textit{Oct. 2022 – Oct. 2023}
+        }
+            \textbf{Cell-free Massive MIMO Edge Intelligence Technology {\footnotesize{(Completed)}}}\end{twocolentry}
+
+        \vspace{0.10 cm}
+
+        \begin{twocolentry}{
+                    (Technical Leader) 
+        }
+            \begin{highlights}
+            \item National Innovation Project {\footnotesize{(No.TQ0331TS01023)}}
+                \item Key words: \textit{Reconfigurable Intelligent Surface; Edge Offloading and Computing}
+            \end{highlights}
+            \end{twocolentry}
+            
+       \vspace{0.1 cm}
+       
+       \begin{twocolentry}{
+       		\textit{Jun. 2021 – Jun. 2023}
+       	}
+       	\textbf{Cooperative Beamforming Enhanced 5G/B5G Mobile Communications {\footnotesize{(Completed)}}}\end{twocolentry}
+       
+       \vspace{0.10 cm}
+       
+       \begin{twocolentry}{
+       		(Project Manager) 
+       	}
+       	\begin{highlights}
+       		\item Postgraduate Innovation and Practice Fund Project in Shaanxi Province {\footnotesize{(No.S202110699420)}}
+       		\item Key words: \textit{Coordinated Multiple Points; Cellular Interference Elimination}
+       	\end{highlights}
+       \end{twocolentry}
+
+
+    \section{Experiences {\footnotesize{(Selected)}}}
+    \textbf{Internship:}
+        \hspace{0.5 cm} \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Sep. 2024 – Oct. 2024}
+        }
+            \textbf{FPGA Embedded Development}, Huarui Hengtai Tech. Co., Ltd -- Guangzhou, China\end{twocolentry}
+        \end{highlights}
+
+        \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Jul. 2021 – Aug. 2021}
+        }
+            \textbf{Huawei Certified ICT Associate}, Xiantong Network Tech. School  -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+
+        \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Mar. 2021 – Jun. 2021}
+        }
+            \textbf{Robotics Training}, Robot Center, NPU -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+        
+    \textbf{Student Work:}
+        
+        \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Sep. 2023 – Present}
+        }
+            \textbf{Graduate Class President}, School of E\&I, NPU -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+        
+        \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Feb. 2025 – Jul. 2025}
+        }
+            \textbf{Undergraduate Dean’s Office Assistant}, School of E\&I, NPU -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+
+        \begin{highlights}
+        \item \begin{twocolentry}{
+            \textit{Sep. 2023 – Jan. 2024}
+        }
+            \textbf{Teaching Assistant}, \textit{Fundamentals of Analog Electronics}, NPU -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+        
+        \begin{highlights}
+        	\item \begin{twocolentry}{
+        			\textit{Jun. 2023 – Aug. 2023}
+        		}
+        		\textbf{Teaching Assistant}, \textit{Machine Learning:Principle and Application}, NPU -- Xi'an, China\end{twocolentry}
+        \end{highlights}
+
+
+
+    \section{Skills}
+
+        \begin{onecolentry}
+        \begin{highlights}
+           \item \textbf{Natural Languages:} Mandarin (Native), English (CET4: 591/710; CET6: 520/710)
+        \end{highlights}
+        \end{onecolentry}
+
+        \vspace{0.1 cm}
+
+        \begin{onecolentry}
+        \begin{highlights}
+           \item \textbf{Programming Languages:} Matlab, Python, C/C++, G(Graphic)
+        \end{highlights}
+        \end{onecolentry}
+
+        \vspace{0.1 cm}
+        
+        \begin{onecolentry}
+        \begin{highlights}
+           \item \textbf{Drawing Softwares:} Matlab, Origin, Visio, PowerPoint
+        \end{highlights}
+        \end{onecolentry}
+
+        \vspace{0.1 cm}
+
+        \begin{onecolentry}
+        \begin{highlights}
+           \item \textbf{Machine Learning Algorithms:} Neural Network, LSTM (Long Short Term Memory Network), DRL (Deep Reinforcement Learning)
+        \end{highlights}
+        \end{onecolentry}
+
+\end{document}
