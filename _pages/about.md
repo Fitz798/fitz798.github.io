@@ -282,7 +282,7 @@ redirect_from:
     <div class="project-role">Technical Leader</div>
   </div>
   <div class="project-keywords">- Key words: Reconfigurable Intelligent Surface; Edge Offloading and Computing</div>
-  <div class="project-work">- My work: SDR platform implementation, signal processing optimization, etc.</div>
+  <div class="project-work">- My work: SDR platform implementation, signal processing optimization, rooftop testing & system validation.</div>
 </div>
 
 <div class="project-experience-container">
