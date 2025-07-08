@@ -243,7 +243,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Orthogonal Time Frequency Space; Beamforming and Precoding Design</div>
-  <div class="project-work">- My work: signal processing algorithm design and simulation， verification platform development and debugging, project management</div>
+  <div class="project-work">- My work: signal processing algorithm design and simulation，verification platform development and debugging, project management</div>
 </div>
 
 <div class="project-experience-container">
@@ -253,10 +253,10 @@ redirect_from:
   </div>
   <div class="project-details">
     <div class="funding-source">- Young Talent Fund of Association for Science and Technology (No.20240148)</div>
-    <div class="project-role">Project Participant</div>
+    <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization</div>
-  <div class="project-work">- My work:</div>
+  <div class="project-work">- My work: variable decoupling and problem decomposition, optimization algorithm design</div>
 </div>
 
 <div class="project-experience-container">
