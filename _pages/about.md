@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering ((<a href="/files/certificates/Certificate_of_ETP.pdf">English-taught Program, ETPa>)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
+&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (<a href="/files/certificates/Certificate_of_ETP.pdf">English-taught Program, ETP<a>)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering**.
 <br>
