@@ -266,7 +266,7 @@ redirect_from:
   </div>
   <div class="project-details">
     <div class="funding-source">- University-Institution Joint Innovation Fund</div>
-    <div class="project-role">Project Participant</div>
+    <div class="project-role">Core Member</div>
   </div>
   <div class="project-keywords">- Key words: Intelligent Situational Awareness; AI-Driven Decision Making</div>
   <div class="project-work">- My work: Contributed to spectrum sensing, interference recognition & prediction algorithms.</div> 
