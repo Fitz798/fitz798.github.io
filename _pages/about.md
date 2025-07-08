@@ -243,7 +243,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Orthogonal Time Frequency Space; Beamforming and Precoding Design</div>
-  <div class="project-work">- My work: signal processing algorithm design and simulation, verification platform development and debugging, project management</div>
+  <div class="project-work">- My work: Led team in algorithm design, simulation, platform development & project management.</div>
 </div>
 
 <div class="project-experience-container">
@@ -256,7 +256,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization</div>
-  <div class="project-work">- My work: Problem decoupling and decomposition, optimization algorithm design and simulation</div>
+  <div class="project-work">- My work: Spearheaded problem decoupling, decomposition & optimization algorithm design.</div>
 </div>
 
 <div class="project-experience-container">
@@ -269,7 +269,7 @@ redirect_from:
     <div class="project-role">Project Participant</div>
   </div>
   <div class="project-keywords">- Key words: Intelligent Situational Awareness; AI-Driven Decision Making</div>
-  <div class="project-work">- My work: Spectrum sensing algorithm design, interference recognition and prediction algorithm design</div> 
+  <div class="project-work">- My work: Contributed to spectrum sensing, interference recognition & prediction algorithms.</div> 
 </div>
 
 <div class="project-experience-container">
@@ -282,7 +282,7 @@ redirect_from:
     <div class="project-role">Technical Leader</div>
   </div>
   <div class="project-keywords">- Key words: Reconfigurable Intelligent Surface; Edge Offloading and Computing</div>
-  <div class="project-work">- My work: Implemented SDR platforms programmed with LabVIEW, optimized signal processing algorithms, etc.</div>
+  <div class="project-work">- My work: SDR platform implementation, signal processing optimization, etc.</div>
 </div>
 
 <div class="project-experience-container">
@@ -302,8 +302,8 @@ redirect_from:
 
 - Sep. 2024 - Oct. 2024, FPGA Embedded Development, Huarui Hengtai Technology Co., Ltd, Guangzhou, China.  
   - Work: Implemented FPGA-based embedded systems programmed in Verilog with Vivado, conducted system integration tests, etc.
-- Jul. 2021 - Aug. 2021, Network Engineering for <a href="/files/certificates/Certificate_of_HCIA.pdf">Huawei Certified ICT Associate (HCIA) 📜 </a>, Xiantong Network Tech. School, Xi'an, China.
-  - Work: 
+- Jul. 2021 - Aug. 2021, Network Engineering for <a href="/files/certificates/Certificate_of_HCIA.pdf">Huawei Certified ICT Associate (HCIA) </a>, Xiantong Network Tech. School, Xi'an, China.
+  - Work: Network fundamentals acquisition & device operation, network simulation and fault diagnosis with eNSP platform, etc.
 - Mar. 2021 - Jun. 2021, Robotics Engineering, Robotics Center of NWPU.
   - Work: Fabricated an omnidirectional dancing robot equipped with a pan-tilt mounted 5-servo mechanical arm.
 
