@@ -295,7 +295,7 @@ redirect_from:
     <div class="project-role">Project Manager</div>
   </div>
   <div class="project-keywords">- Key words: Coordinated Multiple Points; Cellular Interference Elimination</div>
-  <div class="project-work">- My work:</div>
+  <div class="project-work">- My work: cooperative transmission scheme design and simulation verification, project management</div>
 </div>
 
 ## 🧠 Technology Internships
