@@ -256,7 +256,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization</div>
-  <div class="project-work">- My work: Problem decoupling and decomposition, optimization algorithm design</div>
+  <div class="project-work">- My work: Problem decoupling and decomposition, optimization algorithm design and simulation</div>
 </div>
 
 <div class="project-experience-container">
