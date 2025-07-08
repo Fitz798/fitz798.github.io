@@ -243,7 +243,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Orthogonal Time Frequency Space; Beamforming and Precoding Design</div>
-  <div class="project-work">- My work: signal processing algorithm design and simulation，verification platform development and debugging, project management</div>
+  <div class="project-work">- My work: signal processing algorithm design and simulation, verification platform development and debugging, project management</div>
 </div>
 
 <div class="project-experience-container">
@@ -256,7 +256,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization</div>
-  <div class="project-work">- My work: variable decoupling and problem decomposition, optimization algorithm design</div>
+  <div class="project-work">- My work: Problem decoupling and decomposition, optimization algorithm design</div>
 </div>
 
 <div class="project-experience-container">
@@ -269,7 +269,7 @@ redirect_from:
     <div class="project-role">Project Participant</div>
   </div>
   <div class="project-keywords">- Key words: Intelligent Situational Awareness; AI-Driven Decision Making</div>
-  <div class="project-work">- My work:</div> Spectrum sensing algorithm design, Interference recognition and prediction algorithm design
+  <div class="project-work">- My work: Spectrum sensing algorithm design, interference recognition and prediction algorithm design</div> 
 </div>
 
 <div class="project-experience-container">
@@ -295,7 +295,7 @@ redirect_from:
     <div class="project-role">Project Manager</div>
   </div>
   <div class="project-keywords">- Key words: Coordinated Multiple Points; Cellular Interference Elimination</div>
-  <div class="project-work">- My work: cooperative transmission scheme design and simulation verification, project management</div>
+  <div class="project-work">- My work: Cooperative transmission scheme design and simulation verification, project management</div>
 </div>
 
 ## 🧠 Technology Internships
