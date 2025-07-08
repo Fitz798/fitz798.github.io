@@ -239,10 +239,10 @@ redirect_from:
     <div class="project-date">Sep. 2022 – Present</div>
   </div>
   <div class="project-details">
-    <div class="funding-source">- National Natural Science Foundation of China (No.62201462)</div>
+    <div class="funding-source">- National Natural Science Foundation (No.62201462)</div>
     <div class="project-role">Student Leader</div>
   </div>
-  <div class="project-keywords">- Key words: Convex Optimization in Wirless Communication; Orthogonal Time Frequency Space modulation</div>
+  <div class="project-keywords">- Key words: Orthogonal Time Frequency Space; Beamforming and Precoding Design</div>
   <div class="project-work">- My work:</div>
 </div>
 
@@ -255,21 +255,21 @@ redirect_from:
     <div class="funding-source">- Young Talent Fund of Association for Science and Technology (No.20240148)</div>
     <div class="project-role">Project Participant</div>
   </div>
-  <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; Non-convex Optimization</div>
+  <div class="project-keywords">- Key words: Non-Orthogonal Multiple Access; AI-Driven Non-convex Optimization</div>
   <div class="project-work">- My work:</div>
 </div>
 
 <div class="project-experience-container">
   <div class="project-header">
-    <div class="project-title">Interference Signal Analysis and Prediction Simulation Verification Technology</div>
+    <div class="project-title">Interference Signal Analysis and Prediction Technology</div>
     <div class="project-date">Sep. 2024 – Jul. 2025</div>
   </div>
   <div class="project-details">
-    <div class="funding-source">- XXXXXXXXXXXXXXXXXXXXXX</div>
+    <div class="funding-source">- University-Institution Joint Innovation Fund</div>
     <div class="project-role">Project Participant</div>
   </div>
-  <div class="project-keywords">- Key words: Cognitive Radio; Situation Awareness; AI-Driven Intelligent Decision-Making</div>
-  <div class="project-work">- My work:</div>
+  <div class="project-keywords">- Key words: Intelligent Situational Awareness; AI-Driven Decision Making</div>
+  <div class="project-work">- My work:</div> Spectrum sensing algorithm design, Interference recognition and prediction algorithm design
 </div>
 
 <div class="project-experience-container">
