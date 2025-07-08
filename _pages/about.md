@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (<a href="/files/certificates/Certificate_of_ETP.pdf">English-taught Program, ETP<a>)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
+&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (<a href="/files/certificates/Certificate_of_ETP.pdf">English-taught Program, ETP</a>)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering**.
 <br>
@@ -33,7 +33,7 @@ redirect_from:
 # 📖 Educations
 - *2023.09 - 2026.03*, Northwestern Polytechnical University, MPhil Candidate in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **Weighted Average (Compulsory Courses): 93.12/100, (<a href="/files/certificates/Certificate_of_Master's_Rank_Eng.pdf">&nbsp; RANK: 1/62</a>)***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **Weighted Average (Compulsory Courses): 93.12/100, &nbsp;(<a href="/files/certificates/Certificate_of_Master's_Rank_Eng.pdf"> RANK: 1/62</a>)***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my Bachelor's thesis written in English 🔍 </a>)
 <br>
