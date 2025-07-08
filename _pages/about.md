@@ -312,7 +312,7 @@ redirect_from:
 - Since Sep. 2023, I have been elected as the president of the graduate class 23208-07, also the deputy of the youth league branch in the School of Electronics and Information, NPU, responsible for the academic and daily affairs of the class.
 - In the academic year 2019, I was elected as the president of the undergraduate class 080619-08, also the class publicity representative of the international class 081019-91 in the School of Electronics and Information, NPU.
 - ![AA](https://img.shields.io/badge/AA-%2303228d) Since Mar. 2025, I have been working as an affairs assistant at the Undergraduate Dean's Office, School of Electronics and Information, NPU, responsible for academic affairs.  
-- <a href="/files/certificates/Certificate_of_TA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sept. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
+- <a href="/files/certificates/Certificate_of_TA.pdf">![TA](https://img.shields.io/badge/TA-%2303228d) </a> Sep. 2023 - Jan. 2024, I served as a teaching assistant for the major course "Fundamentals of Analog Electronics" at NPU.  
 - ![TA](https://img.shields.io/badge/TA-%2303228d) Jun. 2023 - Aug. 2023, I served as a teaching assistant for the English-taught summer course "Machine Learning: Principles and Applications" at NPU.
 
 ## 🎙 Invited Talks
@@ -324,8 +324,8 @@ redirect_from:
 ## 💡 Academic Communications
 
 - [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/)In Jul. 2025, I will attend the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and deliver an oral presentation.
-- [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In June 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
-- [![GAAC-NPU 2024](https://img.shields.io/badge/GAAC--NPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In March 2024, I attended the 22nd Graduate Academic Annual Conference of NPU in Xi'an, China.
+- [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In Jun. 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
+- [![GAAC-NPU 2024](https://img.shields.io/badge/GAAC--NPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In Mar. 2024, I attended the 22nd Graduate Academic Annual Conference of NPU in Xi'an, China.
 - [![AS-ISAC 2023](https://img.shields.io/badge/AS--ISAC-2023-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.imt2030.org.cn/html//default/zhongwen/xinwendongtai/1724976473045004290.html?index=4) In November 2023, I attended the 3rd Academic Symposium on 6G Integrated Sensing and Communication in Xi'an, China.
 
 ## 💬 Public Communications
