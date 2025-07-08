@@ -243,7 +243,7 @@ redirect_from:
     <div class="project-role">Student Leader</div>
   </div>
   <div class="project-keywords">- Key words: Orthogonal Time Frequency Space; Beamforming and Precoding Design</div>
-  <div class="project-work">- My work:</div>
+  <div class="project-work">- My work: signal processing algorithm design and simulation， verification platform development and debugging, project management</div>
 </div>
 
 <div class="project-experience-container">
