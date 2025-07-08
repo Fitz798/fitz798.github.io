@@ -20,7 +20,7 @@ redirect_from:
 # 👤 Biographies
 &nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering (English-taught Program, ETP)** at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering (ETP)**.
+&nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering**.
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered machine learning (ML), integrated sensing and communication (ISAC), and vehicular networks, etc. For his doctorate, he aims to explore interdisciplinary fields such as artificial intelligence (AI), AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
 <!-- 
