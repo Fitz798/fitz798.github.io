@@ -33,7 +33,7 @@ redirect_from:
 # 📖 Educations
 - *2023.09 - 2026.03*, Northwestern Polytechnical University, MPhil Candidate in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **Weighted Average (Compulsory Courses): 93.12/100, &nbsp;(<a href="/files/certificates/Certificate_of_Master's_Rank_Eng.pdf"> RANK: 1/62</a>)***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **Weighted Average (Compulsory Courses): 93.12/100, &nbsp; RANK: 1/62***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my Bachelor's thesis written in English 🔍 </a>)
 <br>
