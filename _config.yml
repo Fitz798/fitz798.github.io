@@ -27,7 +27,7 @@ author:
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=894HwKIAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=894HwKIAAAAJ"
   email            : "zianchen@mail.nwpu.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
