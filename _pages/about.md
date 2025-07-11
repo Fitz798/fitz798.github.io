@@ -22,7 +22,7 @@ redirect_from:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering**.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered Artificial Intelligence (AI), Integrated Sensing and Communication (ISAC), and UAV and Vehicular Networks, etc. For his doctorate, he aims to explore interdisciplinary fields such as AI robotics, next-generation wireless communications, flexible electronic wireless devices, etc.
+&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered Artificial Intelligence (AI), Integrated Sensing and Communication (ISAC), and UAV and Vehicular Networks, etc. For his doctorate, he aims to explore interdisciplinary fields such as AI Robotics, Next-Generation Wireless Communications, Flexible Electronic Wireless Devices, etc.
 <!-- 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; He has published XXX. ([Google Scholar](https://scholar.google.com/citations?user=aa8uh8IAAAAJ))
