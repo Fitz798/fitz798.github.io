@@ -84,8 +84,8 @@ redirect_from:
 - *2021.10*: &nbsp;🎉🎉 I was awarded the **National Encouragement Scholarship (Top 3%)**.
 
 # 📝 Paperwork and Patents
-- **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (Accepted)
-- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Anti-Jamming Design for Sensing-Assisted Reliable Orthogonal Time Frequency Space Communications[J], IEEE Wireless Communications Letters. (Under review)
+- **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (EI, Accepted)
+- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Anti-Jamming Design for Sensing-Assisted Reliable Orthogonal Time Frequency Space Communications[J], IEEE Wireless Communications Letters. (SCI Q1, Under Review)
 - Qian Xu, **Zian Chen**, Xin Yang, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China. Patent No.CN119276674A (Published) <!--([Patent No.CN119276674A](https://patents.glgoo.top/patent/CN119276674A/en))-->
 - Xin Yang, **Zian Chen**, Wen-Bin Sun, et al. An Anti-Jamming Implementation Approach for Integrated Sensing and Communication Waveform[P], Invention Patent in China. Patent No: 2025107315462 (Accepted)
 - Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. A Secure Transmission Scheme Based on Self-Interference Cancellation Mechanism[P], Invention Patent in China. Patent No: 202418000868.6 (Accepted)
