@@ -39,7 +39,7 @@ redirect_from:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Bachelor.pdf">Click here to view my Bachelor's transcripts 📋 </a>)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Assoc. Prof. Qian Xu*
+&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Prof. Qian Xu*
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**National Scholarship for Graduate Students (Top 2%)**
 <br>
@@ -59,7 +59,7 @@ redirect_from:
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Master.pdf">Click here to view my Master's transcripts 📋 </a>)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Assoc. Prof. Qian Xu*
+&nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Prof. Qian Xu*
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	**National Encouragement Scholarship (Top 3%)**
 <br>
