@@ -55,7 +55,7 @@ redirect_from:
 
 - *2019.09 - 2023.07*, Northwestern Polytechnical University, Bachelor in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **GPA: 3.7/4.1, &nbsp; RANK: 2/7***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **Weight Average: 89.17/100, &nbsp; GPA: 3.7/4.1, &nbsp; RANK: 2/7***
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Master.pdf">Click here to view my Master's transcripts 📋 </a>)
 <br>
