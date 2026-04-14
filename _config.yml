@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Zian Chen"
-description              : "Zian Chen is currently an MPhil candidate in Engineering at the Northwestern Polytechnical University. "
+description              : "Zian Chen received his Master's degree in Engineering (academic track) from Northwestern Polytechnical University in March 2026 and is currently applying for PhD positions."
 repository               : "RayeRen/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Zian Chen"
   avatar           : "images/profile.png"
-  bio              : "2001.06.03"
+  bio              : "Master's Graduate (NPU, 2026) | PhD Applicant"
   location         : "Xi'an, China"
   employer         :
   pubmed           : 
