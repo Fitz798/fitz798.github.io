@@ -17,12 +17,12 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 👤 Biographies
-&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen was born in Anhui Province, China, in 2001. During the years 2019 to 2023, he was pursuing a Bachelor's Degree in Engineering for the fields of **Electronics and Information Engineering** (<a href="/files/certificates/Certificate_of_ETP.pdf">English-taught Program, ETP</a>) at the School of Electronics and Information, Northwestern Polytechnical University (NPU). 
+# 👤 Biography
+&nbsp;&nbsp;&nbsp;&nbsp; Zian Chen received his Master's degree in Engineering (academic track) from Northwestern Polytechnical University (NPU) in March 2026, after completing his bachelor's studies at the same institution.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Since 2023, he has been recommended for admission (without entrance examination) to the School of Electronics and Information, NPU, to pursue an MPhil's Degree in Engineering for the fields of **Information and Communication Engineering**.
+&nbsp;&nbsp;&nbsp;&nbsp; His research focuses on AI-enabled wireless communications, Integrated Sensing and Communication (ISAC), and UAV/vehicular networks.
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp; Currently, he is seeking a PhD position for his future academic career. His Bachelor's and Master's research covered Artificial Intelligence (AI), Integrated Sensing and Communication (ISAC), and UAV and Vehicular Networks, etc. For his doctorate, he aims to explore interdisciplinary fields such as AI Robotics, Next-Generation Wireless Communications, Flexible Electronic Wireless Devices, etc.
+&nbsp;&nbsp;&nbsp;&nbsp; He is currently applying for PhD positions in interdisciplinary directions, including AI robotics, next-generation wireless systems, and flexible electronic wireless devices.
 <!-- 
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp; He has published XXX. ([Google Scholar](https://scholar.google.com/citations?user=aa8uh8IAAAAJ))
@@ -30,14 +30,14 @@ redirect_from:
 <br>
 (<a href="/files/CVs/ZianChen_CV_Eng.pdf">Click here to view my CV</a>)
 
-# 📖 Educations
-- *2023.09 - 2026.03*, Northwestern Polytechnical University, MPhil Candidate in Engineering
+# 📖 Education
+<span class='anchor' id='education'></span>
+
+- *2023.09 - 2026.03*, Northwestern Polytechnical University, Master's Degree in Engineering (Academic Track)
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **GPA: 3.9/4.1, &nbsp; MARK: 93/100, &nbsp; RANK: 1/62***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Information and Communication Engineering (ETP),&nbsp; **Weight Average (Compulsory): 93.12/100, &nbsp; RANK: 1/62***
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my Bachelor's thesis written in English 🔍 </a>)
-<br>
-&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Bachelor.pdf">Click here to view my Bachelor's transcripts 📋 </a>)
+&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Master.pdf">Click here to view my Master's transcripts 📋 </a>)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Prof. Qian Xu*
 <br>
@@ -52,12 +52,15 @@ redirect_from:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Aerospace Electromagnetic Cognition and Utilization Institution (AECU INS) Second Class Scholarship
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;•	Outstanding Graduate Student
+<br>
 
 - *2019.09 - 2023.07*, Northwestern Polytechnical University, Bachelor in Engineering
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **GPA: 3.7/4.1, &nbsp; MARK: 89/100, &nbsp; RANK: 2/7***
+&nbsp;&nbsp;&nbsp;&nbsp;*Major: Electronics and Information Engineering (ETP),&nbsp; **GPA: 3.7/4.1, &nbsp; RANK: 2/7***
 <br>
-&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Master.pdf">Click here to view my Master's transcripts 📋 </a>)
+&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/thesis/Thesis_of_Bachelor.pdf">Click here to view my Bachelor's thesis written in English 🔍 </a>)
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;(<a href="/files/transcripts/Transcripts_of_Bachelor.pdf">Click here to view my Bachelor's transcripts 📋 </a>)
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;*Supervisor: Prof. Qian Xu*
 <br>
@@ -71,35 +74,41 @@ redirect_from:
 
 (<a href="/files/certificates/Certificates_of_Scholarship.pdf">Click here to view my certificates of scholarship 📜 </a>)
 
+<span class='anchor' id='news'></span>
+
 # 🔥 News
-- *2025.06*: &nbsp;🎉🎉 My manuscript, “ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks”, has been accepted by **IEEE ICEICT 2025**.
+- *2026.03*: &nbsp;🎓 I received my Master's degree in Engineering (academic track) from NPU and was honored as an **Outstanding Master's Graduate**.
+- *2025.09*: &nbsp;🎉🎉 My manuscript, “Anti-Jamming Design for Sensing-Assisted Reliable Orthogonal Time Frequency Space Communications”, was accepted by **IEEE WCL**.
+- *2025.06*: &nbsp;🎉🎉 My manuscript, “ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks”, was accepted by **IEEE ICEICT 2025**.
 - *2025.05*: &nbsp;🎉🎉 I won the **Grand Prize** in the "Challenge Cup" Shaanxi Province College Student Extracurricular Academic Science and Technology Works Competition.
 - *2025.04*: &nbsp;🎉🎉 I led the team to win the title of **Top 10 "Flag Youth League Branch"** with the **first place** in the Youth League Commendation Series of NPU.
-- *2024.12*: &nbsp;🎉🎉 I led the team to win the National Third Prize in the National Graduate Contest on Smart-city Technology and Creative Design Competition.
-- *2024.11*: &nbsp;🎉🎉 I was awarded the **National Scholarship for Graduate Students (Top 2%)**.
-- *2024.10*: &nbsp;🎉🎉 I led the graduate class to win the title of **Top 10 "Model Class" and 10,000 RMB funding** in the Annual Excellence Selection Series of NPU.
+- *2024.12*: &nbsp;🎉🎉 I led the team to win the National Third Prize in the National Postgraduate Contest on Smart-city Technology and Creative Design Competition.
+- *2024.11*: &nbsp;🎉🎉 I was awarded the **National Scholarship for Postgraduate Students (Top 2%)**.
 - *2024.03*: &nbsp;🎉🎉 I led the team to win the First Prize in "Aviation, Aerospace and Navigation Cup" Innovation Competition.
-- *2023.07*: &nbsp;🎉🎉 I won the Northwest China Regional First Prize in the "GigaDevice Innovation Cup" National Graduate Student Electronic Design Competition.
-- *2022.10*: &nbsp;🎉🎉 I received a recommendation offer (without entrance examination) to pursue an MPhil's degree in engineering, at the School of Electronics and Information, NPU.
-- *2021.10*: &nbsp;🎉🎉 I was awarded the **National Encouragement Scholarship (Top 3%)**.
 
-# 📝 Paperwork and Patents
-- **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C], 2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025). (EI, Accepted)
-- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Anti-Jamming Design for Sensing-Assisted Reliable Orthogonal Time Frequency Space Communications[J], IEEE Wireless Communications Letters. (SCI Q1, Under Review)
-- Qian Xu, **Zian Chen**, Xin Yang, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China. Patent No.CN119276674A (Published) <!--([Patent No.CN119276674A](https://patents.glgoo.top/patent/CN119276674A/en))-->
-- Xin Yang, **Zian Chen**, Wen-Bin Sun, et al. An Anti-Jamming Implementation Approach for Integrated Sensing and Communication Waveform[P], Invention Patent in China. Patent No: 2025107315462 (Accepted)
-- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. A Secure Transmission Scheme Based on Self-Interference Cancellation Mechanism[P], Invention Patent in China. Patent No: 202418000868.6 (Accepted)
-- Qian Xu, **Zian Chen**, Ling Wang, et al. A Secure Multiple Access Method Based on Multi-Carrier Modulation[P], Invention Patent in China. Patent No: 202418000872.2 (Accepted) 
-- Qian Xu, **Zian Chen**, et al. A Spectrum Efficient Secure Transmission Scheme Based on Orthogonal Time Frequency Space Modulation[P], Invention Patent in China. (Submitted)
-- Qian Xu, **Zian Chen**, et al. A Secure Transmission Approach Enpowered by Multi-Dimensional Sensing[P], Invention Patent in China. (Submitted) 
+<span class='anchor' id='publications'></span>
 
+# 📝 Publications
+- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. Anti-Jamming Design for Sensing-Assisted Reliable Orthogonal Time Frequency Space Communications[J], *IEEE Wireless Communications Letters*, 2026, 15: 575-579. DOI: 10.1109/LWC.2025.3632536. (SCI Q1, IF: 5.5, Published)
+- **Zian Chen**, Qian Xu, Zhaolin Zhang, et al. ISAC-OTFS Enabled Secure Transmission Against Co-Existing Internal and External Eavesdroppers in Vehicular Networks[C]. *2025 IEEE 8th International Conference on Electronic Information and Communication Technology (ICEICT 2025)*, 2025: 66-71. DOI: 10.1109/ICEICT66683.2025.11160106. (EI, Published)
+
+# 📝 Patents
+- Qian Xu, **Zian Chen**, Xin Yang, et al. A Highly Reliable and Secure Transmission Method Based on OTFS[P], Invention Patent in China. Patent No.CN119276674B (Authorized) <!--([Patent No.CN119276674B](https://patents.glgoo.top/patent/CN119276674B/en))-->
+- Qian Xu, **Zian Chen**, Ling Wang, et al. A Secure Multiple Access Method Based on Multi-Carrier Modulation[P], Invention Patent in China. Patent No: ZL202418000872.2 (Authorized) 
+- Qian Xu, **Zian Chen**, Zhaolin Zhang, et al. A Secure Transmission Scheme Based on Self-Interference Cancellation Mechanism[P], Invention Patent in China. Patent No: ZL202418000868.6 (Authorized)
+- Qian Xu, **Zian Chen**, et al. High-Spectral Efficiency Safe Transmission Method Based on orthogonal Time-Frequency Space Modulation[P], Invention Patent in China. Patent No: CN121174138A (Published)<!--([Patent No.CN121174138A](https://patents.glgoo.top/patent/CN121174138A/en))-->
+- Qian Xu, **Zian Chen**, et al. A Secure Communication Method Empowered by Multidimensional Perception[P], Invention Patent in China. Patent No: CN121194177A (Published) <!--([Patent No.CN121194177A](https://patents.glgoo.top/patent/CN121194177A/en))-->
+- Xin Yang, **Zian Chen**, Wen-Bin Sun, et al. A Method for Implementing Anti-Interference of Synaesthesia Integrated Waveform[P], Invention Patent in China. Patent No: CN120639130A (Published)<!--([Patent No.CN120639130A](https://patents.glgoo.top/patent/CN120639130A/en))-->
+
+
+<span class='anchor' id='honors-awards'></span>
 
 # 🎖 Honors and Awards
 
 ## ⭐ Individual Honors
-
-- *2024.10*, Outstanding Graduate Student
-- *2023.05*, Excellent Speaker in the "We Talk" Workshop
+- *2026.03*, Outstanding Master's Graduate
+- *2024/2025.10*, Outstanding Postgraduate Student (Two consecutive years)
+- *2022.05*, Excellent Speaker in "We Talk" Workshop
 - *2021.10*, Outstanding Undergraduate Student
 - *2021.10*, Self-striving and Persevering Outstanding Individual
 - *2021.10*, Diligent and Erudite Outstanding Individual
@@ -109,10 +118,10 @@ redirect_from:
 
 ## 🏅 Collective Honors
 
-- *2024.10*, Annual Excellence Selection Series of NPU, Top 10 "Model Class" and 10,000 RMB funding (Team leader)
+- *2024/2025.10*, Annual Excellence Selection Series of NPU, Top 10 "Model Class" and 10,000 RMB funding (Team leader, Two consecutive years)
 - *2025.04*, Youth League Commendation Series of NPU, Top 10 "Flag Youth League Branch" (Team leader, First place overall)
 - *2025.03*, Youth League Commendation Series of the School of Electronics and Information, "Advanced League Branch" (Team leader, First place overall)
-- *2024.10*, Annual Excellence Selection Series of the School of Electronics and Information, "Advanced Graduate Class" (Team leader, First place overall)
+- *2024/2025.10*, Annual Excellence Selection Series of the School of Electronics and Information, "Advanced Graduate Class" (Team leader, First place overall)
 - *2021.11*, Annual Excellence Selection Series of NPU, "Advanced Undergraduate Class" (Committee member)
 
 (<a href="/files/certificates/Certificates_of_Collective_Honor.pdf">Click here to view my certificates of collective honor 📜 </a>)
@@ -132,6 +141,8 @@ redirect_from:
 - *2024.06*, China International College Student Innovation Competition (University-level Bronze Prize)
 
 (<a href="/files/certificates/Certificates_of_Competition_Award.pdf">Click here to view my certificates of competition award 📜 </a>)
+
+<span class='anchor' id='experiences'></span>
 
 # 💻 Experiences
 
@@ -323,7 +334,7 @@ redirect_from:
 
 ## 💡 Academic Communications
 
-- [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/)In Jul. 2025, I attended the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and delivered an oral presentation.
+- [![ICEICT 2025](https://img.shields.io/badge/ICEICT-2025-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](http://www.iceict.org/ICEICT2025/) In Jul. 2025, I attended the 8th IEEE International Conference on Electronic Information and Communication Technology (ICEICT 2025) in Weihai, China, and delivered an oral presentation.
 - [![CACES 2024](https://img.shields.io/badge/CACES-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.cie.org.cn/list_93/12203.html) In Jun. 2024, I attended the 3rd China Academic Conference on Electromagnetic Spectrum in Xi'an, China.
 - [![GAAC-NPU 2024](https://img.shields.io/badge/GAAC--NPU-2024-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.nwpu.edu.cn/info/3058/82198.htm) In Mar. 2024, I attended the 22nd Graduate Academic Annual Conference of NPU in Xi'an, China.
 - [![AS-ISAC 2023](https://img.shields.io/badge/AS--ISAC-2023-%2303228d?style=flat&logoColor=%2303228d&labelColor=%2303228d&color=%2303228d)](https://www.imt2030.org.cn/html//default/zhongwen/xinwendongtai/1724976473045004290.html?index=4) In November 2023, I attended the 3rd Academic Symposium on 6G Integrated Sensing and Communication in Xi'an, China.
@@ -350,6 +361,3 @@ redirect_from:
 - **Programming Languages**: Matlab, Python, C/C++, G(Graphic)
 - **Drawing Softwares**: Matlab, Python(matplotlib), Visio, PowerPoint
 - **Machine Learning Algorithms**: Neural Network, LSTM (Long Short Term Memory Network), DRL (Deep Reinforcement Learning)
-
-
-
